@@ -1,10 +1,10 @@
 :root {
   --primary: #ebc908;
-  --primary-text: #ffffff;
+  --primary-text: black;
   --secondary: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(224,86,84,1) 100%);
   --secondary-text: #ffffff;
-  --accent: #505050;
-  --accent-text: #ffffff;
+  --accent: white;
+  --accent-text: black;
 }
 .cYMJxo{
 border: 0px !important;
@@ -12,4 +12,9 @@ border: 0px !important;
 .gVgCKA{
 background: rgb(131,58,180) !important;
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(224,86,84,1) 100%) !important;
+  box-shadow:none;
+      border-radius: 10px 0px 10px 0px !impportant;
+}
+body{
+font-family: 'Bangers', cursive !important;
 }
