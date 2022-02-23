@@ -1,10 +1,10 @@
 :root {
   --primary: #ebc908;
-  --primary-text: black;
+  --primary-text: white;
   --secondary: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(224,86,84,1) 100%);
   --secondary-text: #ffffff;
-  --accent: white;
-  --accent-text: black;
+  --accent: black;
+  --accent-text: white;
 }
 .cYMJxo{
 border: 0px !important;
