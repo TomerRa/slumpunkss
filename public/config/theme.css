@@ -19,3 +19,9 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(224,86,84,1) 100%
 body{
 font-family: 'Bangers', cursive !important;
 }
+
+
+.gVgCKA:nth-last-of-type(2){
+display:none;
+
+}
